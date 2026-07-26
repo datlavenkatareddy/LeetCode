@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/datlavenkatareddy/LeetCode/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/datlavenkatareddy/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
