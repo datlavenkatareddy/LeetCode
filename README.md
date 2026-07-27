@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/datlavenkatareddy/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/datlavenkatareddy/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
