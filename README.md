@@ -77,16 +77,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/datlavenkatareddy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/datlavenkatareddy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/datlavenkatareddy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
