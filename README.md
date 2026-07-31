@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/datlavenkatareddy/LeetCode/tree/master/0011-container-with-most-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0643-maximum-average-subarray-i](https://github.com/datlavenkatareddy/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/datlavenkatareddy/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/datlavenkatareddy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/datlavenkatareddy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0101-symmetric-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
