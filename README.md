@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/datlavenkatareddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/datlavenkatareddy/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/datlavenkatareddy/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/datlavenkatareddy/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/datlavenkatareddy/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/datlavenkatareddy/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/datlavenkatareddy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -163,4 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
