@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/datlavenkatareddy/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0101-symmetric-tree) |
+| [3310-remove-methods-from-project](https://github.com/datlavenkatareddy/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/datlavenkatareddy/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
