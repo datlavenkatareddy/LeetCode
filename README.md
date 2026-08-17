@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/datlavenkatareddy/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/datlavenkatareddy/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/datlavenkatareddy/LeetCode/tree/master/1563-stone-game-v) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/datlavenkatareddy/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/datlavenkatareddy/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/datlavenkatareddy/LeetCode/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/datlavenkatareddy/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/datlavenkatareddy/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2029-stone-game-ix](https://github.com/datlavenkatareddy/LeetCode/tree/master/2029-stone-game-ix) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/datlavenkatareddy/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/datlavenkatareddy/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/datlavenkatareddy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/datlavenkatareddy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/datlavenkatareddy/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/datlavenkatareddy/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/datlavenkatareddy/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/datlavenkatareddy/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
