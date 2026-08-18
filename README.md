@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/datlavenkatareddy/LeetCode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/datlavenkatareddy/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/datlavenkatareddy/LeetCode/tree/master/0724-find-pivot-index) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/datlavenkatareddy/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/datlavenkatareddy/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/datlavenkatareddy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/datlavenkatareddy/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/datlavenkatareddy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/datlavenkatareddy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/datlavenkatareddy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/datlavenkatareddy/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/datlavenkatareddy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
