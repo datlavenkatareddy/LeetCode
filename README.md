@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/datlavenkatareddy/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1386-cinema-seat-allocation](https://github.com/datlavenkatareddy/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/datlavenkatareddy/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/datlavenkatareddy/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/datlavenkatareddy/LeetCode/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/datlavenkatareddy/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/datlavenkatareddy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/datlavenkatareddy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
+| [1386-cinema-seat-allocation](https://github.com/datlavenkatareddy/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/datlavenkatareddy/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/datlavenkatareddy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/datlavenkatareddy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/datlavenkatareddy/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/datlavenkatareddy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
