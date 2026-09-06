@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/datlavenkatareddy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/datlavenkatareddy/LeetCode/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/datlavenkatareddy/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/1927-sum-game) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/datlavenkatareddy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/datlavenkatareddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
