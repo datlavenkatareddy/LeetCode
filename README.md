@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/datlavenkatareddy/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/datlavenkatareddy/LeetCode/tree/master/1510-stone-game-iv) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/datlavenkatareddy/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/datlavenkatareddy/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/datlavenkatareddy/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
