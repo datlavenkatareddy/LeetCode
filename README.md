@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/datlavenkatareddy/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/datlavenkatareddy/LeetCode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/datlavenkatareddy/LeetCode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0229-majority-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/datlavenkatareddy/LeetCode/tree/master/1386-cinema-seat-allocation) |
