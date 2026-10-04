@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/datlavenkatareddy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/datlavenkatareddy/LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/datlavenkatareddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/datlavenkatareddy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/datlavenkatareddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/datlavenkatareddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1406-stone-game-iii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/datlavenkatareddy/LeetCode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/datlavenkatareddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/datlavenkatareddy/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/datlavenkatareddy/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/datlavenkatareddy/LeetCode/tree/master/1927-sum-game) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/datlavenkatareddy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/datlavenkatareddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/datlavenkatareddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/datlavenkatareddy/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
