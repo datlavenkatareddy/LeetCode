@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/datlavenkatareddy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/datlavenkatareddy/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/datlavenkatareddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/datlavenkatareddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/datlavenkatareddy/LeetCode/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/datlavenkatareddy/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/datlavenkatareddy/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/datlavenkatareddy/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/datlavenkatareddy/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
