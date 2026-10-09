@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/datlavenkatareddy/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0486-predict-the-winner](https://github.com/datlavenkatareddy/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/datlavenkatareddy/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/datlavenkatareddy/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/datlavenkatareddy/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
